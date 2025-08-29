@@ -15,6 +15,8 @@ custom-html-with-jenkins/
 
 └── templatemo-electric-scripts.js
 
+![Demo Video](assets/demo.mp4)
+
 markdown
 Copy code
 
