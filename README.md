@@ -1,3 +1,4 @@
+![alt text](http://url/to/img.png)
 # Custom HTML with Jenkins (Freestyle CI/CD)
 
 This repository showcases how to **automatically build and deploy a custom HTML site using Jenkins (Freestyle Project) and Docker with Nginx**. It's a perfect starting point for anyone looking to explore CI/CD automation using simple, static content.
