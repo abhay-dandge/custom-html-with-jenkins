@@ -15,7 +15,7 @@ custom-html-with-jenkins/
 
 └── templatemo-electric-scripts.js
 
-![Demo Video](assets/demo.mp4)
+![Demo Video](Live View Page - 596 electric xtra Template - Google Chrome 2025-08-29 13-05-16.mp4)
 
 markdown
 Copy code
