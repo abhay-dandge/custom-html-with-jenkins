@@ -5,6 +5,7 @@ This repository showcases how to **automatically build and deploy a custom HTML 
 ##  Project Structure
 
 custom-html-with-jenkins/
+
 ├── Dockerfile
 ├── index.html
 ├── templatemo-electric-xtra.css
