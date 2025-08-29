@@ -67,21 +67,22 @@ Configure Jenkins credentials for DockerHub (DOCKER_USER, DOCKER_PASS) if pushin
 
 Save and Build Now — your site is live!
 
-Why This Setup?
-Freestyle Project Simplicity: No complex Jenkinsfiles. Everything is easy to configure through Jenkins UI.
+## Why This Setup?
+```
+- Freestyle Project Simplicity: No complex Jenkinsfiles. Everything is easy to configure through Jenkins UI.
 
-Docker + Nginx = Lightweight Hosting: Static site served reliably through a minimal container.
+- Docker + Nginx = Lightweight Hosting: Static site served reliably through a minimal container.
 
-Flexible Deployment: Choose your trigger mechanism and include DockerHub if needed.
-
-Suggested Enhancements
+- Flexible Deployment: Choose your trigger mechanism and include DockerHub if needed.
+```
+## Suggested Enhancements
 Add HTTPS (SSL/TLS) using Certbot and Nginx.
 
-Implement Blue-Green Deployments for zero-downtime updates.
+- Implement Blue-Green Deployments for zero-downtime updates.
 
-Expand to include backend services using Docker Compose.
+- Expand to include backend services using Docker Compose.
 
-Add monitoring or automated tests into the pipeline.
+- Add monitoring or automated tests into the pipeline.
 
-License & Acknowledgments
+## License & Acknowledgments
 Feel free to use or modify this setup for your own projects! Inspired by modern DevOps workflows and friendly automation.
